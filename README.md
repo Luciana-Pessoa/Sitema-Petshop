@@ -4,8 +4,6 @@ Um mini sistema de gerenciamento de banco de dados que ajuda o proprietário de 
  
 # Objetivos :muscle:
 
-
-
  
 - Fornecer uma interface baseada na web para um proprietário de petshop gerenciar suas atividades de petshop.
 
